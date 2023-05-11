@@ -1,3 +1,7 @@
+A react application to track task and set reminders 
+![Task_tracker_app](https://github.com/Korankye-Gyan/task-tracker-app/assets/71855200/12e95fc4-3aa6-4411-839f-5ee4bd124a6c)
+![Task_tracker2_app](https://github.com/Korankye-Gyan/task-tracker-app/assets/71855200/e28feda4-95e0-4908-a959-e1f410f6c399)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
