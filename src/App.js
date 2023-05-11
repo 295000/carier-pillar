@@ -3,9 +3,6 @@ import Head from './components/Head';
 import Form from './components/Form';
 import { useState } from 'react';
 import Task from './components/Task';
-import axios from 'axios';
-
-
 
 function App() {
   const [tasks,setTasks] = useState([
@@ -18,7 +15,6 @@ function App() {
   const handleShow = ()=>{
     setShow(prevState=>!prevState) //toggle Add Task and close btn
   }
-
 
   //Add Task
   const addTask=(task)=>{
