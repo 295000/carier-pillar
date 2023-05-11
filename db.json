@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "activity": "Go to work",
+      "date": "feb 5th at 2:30pm",
+      "reminder":true
+    },
+    {
+      "id": 1,
+      "activity": "Travel to my home town",
+      "date": "feb 5th at 2:30pm",
+      "reminder":true
+    },
+    {
+      "id": 1,
+      "activity": "Do the laundry",
+      "date": "feb 5th at 2:30pm",
+      "reminder":false
+    }
+  ]
+  
+}
